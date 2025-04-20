@@ -2,10 +2,6 @@
 
 A Python-based tool that uses the Scapy library to conduct ARP spoofing (ARP poisoning) within a local subnet. This script enables an attacker to send forged ARP reply packets to a victim machine, tricking it into associating the attacker's MAC address with the gateway IP address. This positions the attacker as a "Man in the Middle," enabling packet sniffing and interception.
 
-## ⚠️ Disclaimer
-
-This tool is developed strictly for **educational purposes** and ethical security research in controlled environments. **Unauthorized use on networks you do not own or have explicit permission to test is illegal and unethical.**
-
 ---
 
 ## 📚 Overview
@@ -108,5 +104,5 @@ Or reboot the machine to flush the ARP cache.
 ## 🧠 Author
 
 **Kaeden Bryer**  
-CSI 2470 –– Man-in-the-Middle Attack Research  
+CSI 2470 –– Man-in-the-Middle Attack Assignment
 Date: 19 April 2025
