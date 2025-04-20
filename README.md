@@ -1,4 +1,4 @@
-# CSI2470 MITM Attack Code
+# 🥷 CSI2470 MITM Attack Code
 
 A Python-based tool that uses the Scapy library to conduct ARP spoofing (ARP poisoning) within a local subnet. This script enables an attacker to send forged ARP reply packets to a victim machine, tricking it into associating the attacker's MAC address with the gateway IP address. This positions the attacker as a "Man in the Middle," enabling packet sniffing and interception.
 
